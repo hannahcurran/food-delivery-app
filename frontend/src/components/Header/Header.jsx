@@ -7,7 +7,7 @@ const Header = () => {
             <div className="header-contents">
                 <h2>Order your favourite food here</h2>
                 <p>Choose from a diverse menu featuring an array of dishes made with the finest ingredients... </p>
-                <button>View Menu</button>
+                <button >View Menu</button>
             </div>
         </div>
     )
